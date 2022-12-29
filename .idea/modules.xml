@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java101.iml" filepath="$PROJECT_DIR$/.idea/Java101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KullaniciGirisi/KullaniciGirisi.iml" filepath="$PROJECT_DIR$/KullaniciGirisi/KullaniciGirisi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManavKasa/ManavKasa.iml" filepath="$PROJECT_DIR$/ManavKasa/ManavKasa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SinifGecme/SinifGecme.iml" filepath="$PROJECT_DIR$/SinifGecme/SinifGecme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VucutKitleEndeksi/VucutKitleEndeksi.iml" filepath="$PROJECT_DIR$/VucutKitleEndeksi/VucutKitleEndeksi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daireAlanHesabi/daireAlanHesabi.iml" filepath="$PROJECT_DIR$/daireAlanHesabi/daireAlanHesabi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dikUcgen/dikUcgen.iml" filepath="$PROJECT_DIR$/dikUcgen/dikUcgen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/etkinlikOnerme/etkinlikOnerme.iml" filepath="$PROJECT_DIR$/etkinlikOnerme/etkinlikOnerme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hackerrank/hackerrank.iml" filepath="$PROJECT_DIR$/hackerrank/hackerrank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HesapMakinesi/ifElse.iml" filepath="$PROJECT_DIR$/HesapMakinesi/ifElse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kdvHesaplama/kdvHesaplama.iml" filepath="$PROJECT_DIR$/kdvHesaplama/kdvHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ortalamaHesaplama/ortalamaHesaplama.iml" filepath="$PROJECT_DIR$/ortalamaHesaplama/ortalamaHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taksimetreHesabi/taksimetreHesabi.iml" filepath="$PROJECT_DIR$/taksimetreHesabi/taksimetreHesabi.iml" />
+    </modules>
+  </component>
+</project>
